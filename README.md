@@ -2,6 +2,8 @@
 
 Hi! I'm [Gustavo](https://github.com/guhmerces) and this repository contains my implementation for the backend technical challenge proposed by ecoPortal.
 
+<b>Ruby version used: 2.7</b>
+
 ## Run the program
 
 In order to start the game and interact with it, go to the project's root and run
